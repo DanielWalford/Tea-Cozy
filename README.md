@@ -1,7 +1,7 @@
 # Tea Cozy Project
 
 ## Goal
-The goal of this project was to create a webpage based for a website called Tea Cozy. The spec was provided and can be seen in *resources/spec*.
+The goal of this project was to create a webpage for a site called Tea Cozy. The spec was provided and can be seen in *resources spec*.
 
 ![screenshot](resources/teaCozyScreenshot.png "Screenshot of landing page")
 
