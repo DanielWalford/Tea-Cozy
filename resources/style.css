@@ -22,6 +22,7 @@ nav {
     display: inline-flex;
     text-decoration: underline;
     margin-left: auto;
+    justify-content: end;
 }
 
 .mission {
@@ -92,6 +93,7 @@ figcaption {
 
 .contact {
     height: 200px;
+    justify-content: center;
 }
 
 #footer {
